@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irine1210
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on 'How to keep healthy’
+- 💞️ I’m looking to collaborate on 'keep healthy && promote my coding ability’
 - 📫 How to reach me ...
 
 <!---
