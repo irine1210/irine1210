@@ -2,7 +2,6 @@
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on 'keep healthy && promote my coding ability’
-- 📫 How to reach me ...
 
 <!---
 irine1210/irine1210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
