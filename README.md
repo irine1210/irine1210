@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irine1210
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning python
+- 🌱 I’m currently foucsing on DeepLearning
 - 💞️ I’m looking to collaborate on 'keep healthy && promote my coding ability’
 
 <!---
